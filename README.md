@@ -1,6 +1,6 @@
 # WDLPracs
-Solutions to the WDL QB
-JS is dynamically typed. Every input you give in an input type "text" is treated as a string. Hence when the "+" operator is used it
+Solutions to the WDL QB  
+JS is dynamically typed. This means that every input you give in an input type "text" is treated as a string. Hence when the "+" operator is used it
 concatenates the two strings, instead of adding two numbers. Eg:- "6" + "5" = "65" according to JS. (Expected result is 11).
 However if you use other operands such as "-", "*", "/" JS treats the same strings as numbers. Eg:- "6" * "5" = "30" according to JS.
 Therefore, we need to be careful whenever we are using the "+" operator as it may concatenate the two strings instead of adding them.
